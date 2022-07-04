@@ -6,3 +6,4 @@ First add your data(domains or company name) in Data.xlsx and save it
 
 Now run the script!!!
 
+Extracted data will be in new "data_extracted.csv" file
