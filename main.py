@@ -10,7 +10,7 @@ import re
 from webdriver_manager.chrome import ChromeDriverManager
 
 df = pd.read_excel("Data.xlsx")
-d1 = list(df['Domains'])
+d1 = list(df['Domains or Company Name'])
 emp_size= []
 comp_rev = []
 url = []
